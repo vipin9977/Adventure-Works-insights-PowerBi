@@ -9,7 +9,8 @@
 
 - `AdventureWorks-calender.csv` : contains dates data 
 - `adventureWorks-territories.csv` : contains data related to territories/countries
-- `adventureWorks-sale-2015.csv` , `adventureWorks-sale-2016.csv` , `adventureWorks-sale-2017.csv` : 
+- `AW-Sales` folder : 
+    - contains adventureWorks-sale-2015.csv , adventureWorks-sale-2016.csv , adventureWorks-sale-2017.csv
     - contains sales data of 2015 , 2016 , 2017
     - & each files contains key columns i.e productKey , customerKey , territoryKey which is most important <br>
         because based on these columns we'll be doing data modelling to connect with other tables/data
@@ -46,9 +47,8 @@ So, he hired a team of data people to complete this task. So the following tasks
 
 ## Steps Followed in this project
 
-In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same
 1. Performed a High level analysis of data in Excel to get better understanding over the data.
-2. Connected the folder data set to PowerBI Desktop
+2. Connected the folder data-set to PowerBI Desktop
 3. Performed ETL and data cleaning on the imported data. 
 4.  
 5. Created measure for needs and used them for creating visuals in PowerBi Desktop

@@ -23,10 +23,12 @@ Humans are not comfortable in consuming numbers from excel files, which is obvio
         because based on these columns we'll be doing data modelling to connect with other tables/data
 - `AdventureWorks-Products.csv` : contains columns like productKey column , productCost & ProductPrice
     - based on these columns we'll find the revenue & profit + loss 
-    - ProductSubcategoryKey column also important which is linked with `AdventureWorks-Product-Subcategories.csv` file 
+    - ProductSubcategoryKey column also important which is linked <br>
+        with `AdventureWorks-Product-Subcategories.csv` file 
 - `AdventureWorks.Returns.csv` : contains data related to Returns
 - `AdventureWorks-Product-categories.csv` : contains different categories of products
-- `AdventureWorks-Customers.csv` : contains data of customers , target customers & which kind-of products they're buying 
+- `AdventureWorks-Customers.csv` : 
+    - contains data of customers , target customers & which kind-of products they're buying 
 - `Logo of the company` : logo for branding purpose
 
 ## Solution

@@ -5,14 +5,6 @@
 - they sell in multiple countries , multiple customers & they're also getting returns
 - They're maintaining the data in good manner which is stored in flat file i.e CSV file
     
-## Problem statement
-
-The sales director of the company is facing a lot of issues in terms of understanding how the business is performing <br>
-and what are all the problem company is facing currently as the sales are not as expected and declining gradually <br>
-And whenever he calls the regional managers to get the current status of the sales and market, as a human behaviour,
-these people sugar cote the truth and send tons of Excel files instead of disclosing the truth, which made the sales director more frustrated.
-Humans are not comfortable in consuming numbers from excel files, which is obvious reason for the frustration. <br>
-
 ## About DATASET
 
 - `AdventureWorks-calender.csv` : contains dates data 
@@ -30,6 +22,14 @@ Humans are not comfortable in consuming numbers from excel files, which is obvio
 - `AdventureWorks-Customers.csv` : 
     - contains data of customers , target customers & which kind-of products they're buying 
 - `Logo of the company` : logo for branding purpose
+
+## Problem statement
+
+The sales director of the company is facing a lot of issues in terms of understanding how the business is performing <br>
+and what are all the problem company is facing currently as the sales are not as expected and declining gradually <br>
+And whenever he calls the regional managers to get the current status of the sales and market, as a human behaviour,
+these people sugar cote the truth and send tons of Excel files instead of disclosing the truth, which made the sales director more frustrated.
+Humans are not comfortable in consuming numbers from excel files, which is obvious reason for the frustration. <br>
 
 ## Solution
 

@@ -89,5 +89,5 @@ So, he hired a team of data people to complete this task. So the following tasks
 ---
 
 <video controls width="250">
-  <source src="./PowerBi-Dashboard/3-interactive-dashboard/AW-Final-Report.mp4" type="video/mp4">
+  <source src="https://github.com/vipin9977/Adventure-Works-insights-PowerBi/blob/main/PowerBi-Dashboard/3-interactive-dashboard/AW-Final-Report.mp4" type="video/mp4">
 </video>

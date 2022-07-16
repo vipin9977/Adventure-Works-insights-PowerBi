@@ -87,3 +87,7 @@ So, he hired a team of data people to complete this task. So the following tasks
 ### Interactive Dashboard
 
 ---
+
+<video controls width="250">
+  <source src="./PowerBi-Dashboard/3-interactive-dashboard/AW-Final-Report.mp4" type="video/mp4">
+</video>

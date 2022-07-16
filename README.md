@@ -67,22 +67,22 @@ So, he hired a team of data people to complete this task. So the following tasks
 ### Initial Dashboard
 
 ---
-![Top Line Report](./PowerBi_Dashboard/1-initial-PBI-dashboard/top-line-report-page-1.jpg "Top Line Report")
-![Product Details](./PowerBi_Dashboard/1-initial-PBI-dashboard/product-details-page-2.jpg "Product Details")
+![Top Line Report](./PowerBi-Dashboard/1-initial-PBI-dashboard/top-line-report-page-1.jpg "Top Line Report")
+![Product Details](./PowerBi-Dashboard/1-initial-PBI-dashboard/product-details-page-2.jpg "Product Details")
 
 - Other Dashboards
-    - [x] [Sales Details](./PowerBi_Dashboard/1-initial-PBI-dashboard/sales-details-page-3.jpg)
-    - [x] [key influencer page 1](./PowerBi_Dashboard/1-initial-PBI-dashboard/key-influencer-page-1.jpg)
-    - [x] [key influencer page 2](./PowerBi_Dashboard/1-initial-PBI-dashboard/key-influencer-page-2.jpg)
-    - [x] [Decomposition Tree](./PowerBi_Dashboard/1-initial-PBI-dashboard/decomposition-tree.jpg)
-    - [x] [Revenue Details](./PowerBi_Dashboard/1-initial-PBI-dashboard/revenue-details.jpg)
-    - [x] [Return Quantity Tooltip](./PowerBi_Dashboard/1-initial-PBI-dashboard/Return-Quantity-tooltip-page.jpg)
+    - [x] [Sales Details](./PowerBi-Dashboard/1-initial-PBI-dashboard/sales-details-page-3.jpg)
+    - [x] [key influencer page 1](./PowerBi-Dashboard/1-initial-PBI-dashboard/key-influencer-page-1.jpg)
+    - [x] [key influencer page 2](./PowerBi-Dashboard/1-initial-PBI-dashboard/key-influencer-page-2.jpg)
+    - [x] [Decomposition Tree](./PowerBi-Dashboard/1-initial-PBI-dashboard/decomposition-tree.jpg)
+    - [x] [Revenue Details](./PowerBi-Dashboard/1-initial-PBI-dashboard/revenue-details.jpg)
+    - [x] [Return Quantity Tooltip](./PowerBi-Dashboard/1-initial-PBI-dashboard/Return-Quantity-tooltip-page.jpg)
 
 ### Updated Dashboard
 
 ---
-![Top Line Report](./PowerBi_Dashboard/2-updated-PBI-dashboard/top-line-report-page-1.jpg "Top Line Report")
-![Product Details](./PowerBi_Dashboard/2-updated-PBI-dashboard/product-details-page-2.jpg "Product Details")
+![Top Line Report](./PowerBi-Dashboard/2-updated-PBI-dashboard/top-line-report-page-1.jpg "Top Line Report")
+![Product Details](./PowerBi-Dashboard/2-updated-PBI-dashboard/product-details-page-2.jpg "Product Details")
 
 ### Interactive Dashboard
 

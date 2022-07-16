@@ -50,22 +50,40 @@ So, he hired a team of data people to complete this task. So the following tasks
 1. Performed a High level analysis of data in Excel to get better understanding over the data.
 2. Connected the folder data-set to PowerBI Desktop
 3. Performed ETL and data cleaning on the imported data. 
-4.  
+4. Manually Build the relationship b/w different tables in PowerBi Desktop
 5. Created measure for needs and used them for creating visuals in PowerBi Desktop
 
 ## Final result
 
+`About PBI Dashboard pages`
+- [x] `Top Line Report` : contain major information about this company
+- [x] `Product Details` : dedicated page for only Products information
+- [x] `Sales Details` : dedicated page for sales details made through `Q&A` AI visual which is NLQ 
+- [x] `KI , KI2` : two separate pages to See which factors affect that metric being analyzed
+- [x] `DT` : this page lets you visualize data across multiple dimensions of revenue 
+- [x] `Revenue Details` : this page tells revenue based on the category name for each individual year
+- [x] `Return Qty. Tooltip` : this page we used for as tooltip on other  
+
 ### Initial Dashboard
 
 ---
-<img src="">
+![Top Line Report](./PowerBi_Dashboard/1-initial-PBI-dashboard/top-line-report-page-1.jpg "Top Line Report")
+![Product Details](./PowerBi_Dashboard/1-initial-PBI-dashboard/product-details-page-2.jpg "Product Details")
+
+- Other Dashboards
+    - [x] [Sales Details](./PowerBi_Dashboard/1-initial-PBI-dashboard/sales-details-page-3.jpg)
+    - [x] [key influencer page 1](./PowerBi_Dashboard/1-initial-PBI-dashboard/key-influencer-page-1.jpg)
+    - [x] [key influencer page 2](./PowerBi_Dashboard/1-initial-PBI-dashboard/key-influencer-page-2.jpg)
+    - [x] [Decomposition Tree](./PowerBi_Dashboard/1-initial-PBI-dashboard/decomposition-tree.jpg)
+    - [x] [Revenue Details](./PowerBi_Dashboard/1-initial-PBI-dashboard/revenue-details.jpg)
+    - [x] [Return Quantity Tooltip](./PowerBi_Dashboard/1-initial-PBI-dashboard/Return-Quantity-tooltip-page.jpg)
 
 ### Updated Dashboard
 
 ---
-<img src="">
+![Top Line Report](./PowerBi_Dashboard/2-updated-PBI-dashboard/top-line-report-page-1.jpg "Top Line Report")
+![Product Details](./PowerBi_Dashboard/2-updated-PBI-dashboard/product-details-page-2.jpg "Product Details")
 
 ### Interactive Dashboard
 
 ---
-<img src="">

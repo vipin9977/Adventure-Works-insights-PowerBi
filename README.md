@@ -87,7 +87,4 @@ So, he hired a team of data people to complete this task. So the following tasks
 ### Interactive Dashboard
 
 ---
-
-<video controls width="250">
-  <source src="https://github.com/vipin9977/Adventure-Works-insights-PowerBi/blob/main/PowerBi-Dashboard/3-interactive-dashboard/AW-Final-Report.mp4" type="video/mp4">
-</video>
+![AW Final Report](./PowerBi-Dashboard/3-final-dashboard/Top-Line-Report.gif)
